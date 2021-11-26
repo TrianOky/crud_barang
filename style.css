@@ -1,0 +1,15 @@
+.container{
+	width: 30%;
+	margin-top: 10%;
+	box-shadow: 0 3px 20px rgba(0,0,0,0.2); 
+	padding: 40px;
+}
+button{
+	width: 49%;
+}
+.nav-link:hover{
+	background-color: gray;
+}
+.display-4{
+	font-weight: bold;
+}
